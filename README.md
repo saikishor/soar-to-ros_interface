@@ -1,4 +1,4 @@
-# soar-to-ros_interface
+# SOAR-to-ROS _Interface_
 
 This is a SOAR-to-ROS interface, which establishes the communications between them and make the robot act according tot the decisions given by SOAR, in between data from outside world is given into the SOAR Cognitive Architecture, so that this information is used to take further decisions.
 
