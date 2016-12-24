@@ -1,8 +1,9 @@
 # soar-to-ros_interface
 
-This is a SOAR-to-ROS interface, here we need to include the following directories for it to work
+This is a SOAR-to-ROS interface, which establishes the communications between them and make the robot act according tot the decisions given by SOAR, in between data from outside world is given into the SOAR Cognitive Architecture, so that this information is used to take further decisions.
 
 ## Installation
+The following packages are required to run the this interface and to establish proper data connections and achieve the goal.
 
 https://github.com/AutonomyLab/ardrone_autonomy.git - ardrone_automony (AutonomyLab/ardrone_autonomy)
 
@@ -21,7 +22,7 @@ https://github.com/saikishor/ar_marker_detection.git - (To find AR Marker and wr
 ```
 roslaunch soar-to-ros_interface soar_ros.launch
 ```
-Simulataneously, you need to also run the following commands
+Simulataneously, you need to also run the following command
 ```
 roslaunch ar_marker_detection ar_marker.launch
 ```
