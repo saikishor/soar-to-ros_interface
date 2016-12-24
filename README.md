@@ -25,4 +25,4 @@ roslaunch ar_marker_detection ar_marker.launch
 
 
 Note: 
-You might need to change the directories of SOAR and some other files in this code.
+You might need to change the directories of SOAR and some other files in this code, according to your directories for it to function.
