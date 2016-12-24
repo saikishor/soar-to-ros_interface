@@ -1,6 +1,6 @@
 # SOAR-to-ROS _Interface_
 
-This is a SOAR-to-ROS interface, which establishes the communications between them and make the robot act according tot the decisions given by SOAR, in between data from outside world is given into the SOAR Cognitive Architecture, so that this information is used to take further decisions.
+This is a SOAR-to-ROS interface, establishes the communications between them and make the robot act according tot the decisions given by SOAR, in between data from outside world is given into the SOAR Cognitive Architecture, so that this information is used to take further decisions.
 
 ## Installation
 The following packages are required to run the this interface and to establish proper data connections and achieve the goal.
