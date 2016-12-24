@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>soar-to-ros_interface</name>
+
+  <version>1.0.0</version>
+
+  <description>This is the file that controls AR.Drone from SOAR Commands and executes as ROS commands</description>
+
+  <maintainer email="saisastra3@gmail.com">Sai Kishor Kothakota</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>ardrone_autonomy</run_depend>
+  <run_depend>joy</run_depend>
+
+  <url>http://github.com/saikishor/</url>
+
+</package>

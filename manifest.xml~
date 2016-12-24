@@ -1,0 +1,15 @@
+<package>
+  <description brief="ardrone_project">
+  	this is the file that controls AR.Drone from SOAR Commands
+  </description>
+  <author>Sai Kishor Kothakota</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://github.com/saikishor/</url>
+
+  <depend package="ardrone_autonomy" />
+  <depend package="joy" />
+  
+</package>
+
+
