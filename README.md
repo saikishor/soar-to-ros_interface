@@ -20,11 +20,11 @@ https://github.com/saikishor/ar_marker_detection.git - (To find AR Marker and wr
 
 ## Execution:
 ```
-roslaunch soar-to-ros_interface soar_ros.launch
+[T1] roslaunch soar-to-ros_interface soar_ros.launch
 ```
 Simulataneously, you need to also run the following command
 ```
-roslaunch ar_marker_detection ar_marker.launch
+[T2] roslaunch ar_marker_detection ar_marker.launch
 ```
 
 ######Note: 
