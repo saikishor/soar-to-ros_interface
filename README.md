@@ -30,5 +30,5 @@ Simulataneously, you need to also run the following command
 ######Note: 
 You might need to change the directories of SOAR and some other files in this code, according to your directories for it to function.
 
-######Experimentation Demonstration Link:
+######Experimentat Demonstration Link:
 http://tiny.cc/ardrone
